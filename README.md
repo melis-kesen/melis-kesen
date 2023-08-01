@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melis</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melis-kesen&label=Profile%20views&color=690eb4&style=flat" alt="melis-kesen" /> </p>
 
